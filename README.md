@@ -49,8 +49,6 @@
 **HTTP:**
 
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [HTTP Lecture [RU]](https://www.youtube.com/watch?v=jOUb8wot2sU)
-- [HTTP Lecture Slides](https://slides.com/dzmitrytsebruk/http)
 
 **HTTPS:**
 
